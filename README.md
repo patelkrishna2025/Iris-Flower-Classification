@@ -30,10 +30,10 @@ Type: Multiclass classification dataset
 Typical outcomes (models can vary):
 
 ## Model	Test Accuracy
-Logistic Regression	~ 96%
-K-Nearest Neighbors	~ 97%
-Support Vector Machine	~ 98%
-Decision Tree	~ 95%
+* Logistic Regression	~ 96%
+* K-Nearest Neighbors	~ 97%
+* Support Vector Machine	~ 98%
+* Decision Tree	~ 95%
 
 High overall accuracy indicates strong separability in feature space.
 Confusion matrix shows few misclassifications, usually between versicolor & virginica.
