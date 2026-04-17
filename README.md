@@ -83,7 +83,7 @@ http://localhost:8501
 
 ---
 
-## 👁️ Computer Vision Features (NEW)
+## 👁️ Computer Vision Features 
 
 - Image metadata extraction (size, format, mode)
 - RGB channel statistics (mean, std, max)
@@ -93,7 +93,7 @@ http://localhost:8501
 
 ---
 
-## 💬 AI Chatbot Capabilities (NEW)
+## 💬 AI Chatbot Capabilities 
 
 Ask the chatbot:
 - *"Setosa ki characteristics kya hain?"*
@@ -104,7 +104,7 @@ Ask the chatbot:
 
 ---
 
-## 📓 Notebook Updates (NEW)
+## 📓 Notebook Updates 
 
 The enhanced notebook adds:
 1. **Multiple ML Models** — LR, RF, SVM, KNN, Gradient Boosting
